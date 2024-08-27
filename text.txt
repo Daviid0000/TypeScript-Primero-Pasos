@@ -1,0 +1,9 @@
+gestion de inventario de equipamiento informático
+
+interfaz sencilla con reactr con un crud
+
+en el backend se crearan los servicios
+
+se aprenderá:
+implementacion de las intefaces
+
